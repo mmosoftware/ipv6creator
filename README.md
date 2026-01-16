@@ -18,7 +18,7 @@ Với hệ điều hành CentOS 8, 9 (khuyến cáo nên dùng)
 
 yum update -y
 
-wget  http://file.lowendviet.com/Scripts/Linux/levip6/levip6 && chmod +x levip6 && ./levip6
+wget https://github.com/mmosoftware/ipv6creator/blob/main/levip6 && chmod +x levip6 && ./levip6
 Sau khi cài đặt phần mềm, quý khách sẽ được yêu cầu sử dụng lệnh levip6 để chạy lại phần mềm.
 
 
